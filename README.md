@@ -2,7 +2,7 @@
   <img src="https://bixbydevelopers.com/dev/docs-assets/resources/dev-guide/bixby_logo_github-11221940070278028369.png">
   <br/>
   <h1 align="Center"> Bixby Quiz Sample Capsule Multi language for Brazilian Developers / Cápsula Bixby de Exemplo Quiz Multilinguagem para Desenvolvidores Brasileiros </h1>
-  <h1> Capsule in En-US & PT=BR</h1>
+  <h1> Capsule in En-US & PT-BR</h1>
 </p>
 
 ## Overview (En-US)
